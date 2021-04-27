@@ -1,0 +1,1443 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1500; Version 1909; 64bit' Language: 'en' Physical Memory: 32612 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Projects/MuffinClickerApril
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+53068
+Successfully changed project path to: D:/Projects/MuffinClickerApril
+D:/Projects/MuffinClickerApril
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/MuffinClickerApril/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 with Max-Q Design (ID=0x1f10)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56000
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001289 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.273 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001876 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.055 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1839 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 2.549400 ms (FindLiveObjects: 0.288800 ms CreateObjectMapping: 0.114000 ms MarkObjects: 2.012600 ms  DeleteObjects: 0.132400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MuffinClicker/Scenes/MuffinClickerScene.unity
+  artifactKey: Guid(1d0e61f9a9d0ed04a863d3bd3f49a4ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MuffinClicker/Scenes/MuffinClickerScene.unity using Guid(1d0e61f9a9d0ed04a863d3bd3f49a4ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de532dca1e60770f76592acef83d469f') in 0.010948 seconds
+  Import took 0.013845 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.9 MB.
+System memory in use after: 49.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 3.095700 ms (FindLiveObjects: 0.170200 ms CreateObjectMapping: 0.065600 ms MarkObjects: 2.756200 ms  DeleteObjects: 0.102200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004655 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.077 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 2.072000 ms (FindLiveObjects: 0.261700 ms CreateObjectMapping: 0.066800 ms MarkObjects: 1.643000 ms  DeleteObjects: 0.099600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.928 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 1.955100 ms (FindLiveObjects: 0.198900 ms CreateObjectMapping: 0.083900 ms MarkObjects: 1.569600 ms  DeleteObjects: 0.101500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.2 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 1.939300 ms (FindLiveObjects: 0.174200 ms CreateObjectMapping: 0.064200 ms MarkObjects: 1.605500 ms  DeleteObjects: 0.094300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002607 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.131 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 2.003900 ms (FindLiveObjects: 0.188000 ms CreateObjectMapping: 0.065800 ms MarkObjects: 1.657200 ms  DeleteObjects: 0.091900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.170 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 2.470400 ms (FindLiveObjects: 0.284300 ms CreateObjectMapping: 0.080200 ms MarkObjects: 2.000600 ms  DeleteObjects: 0.103700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002070 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.931 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 2.373900 ms (FindLiveObjects: 0.275900 ms CreateObjectMapping: 0.081800 ms MarkObjects: 1.903000 ms  DeleteObjects: 0.111400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 960.697149 seconds.
+  path: Assets/KenneyUIPack/PNG/arrowBeige_left.png
+  artifactKey: Guid(1bf3e317afdc3ed4c99a8f4c666cc2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/arrowBeige_left.png using Guid(1bf3e317afdc3ed4c99a8f4c666cc2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8600278dabe1459fc8767b7afa31197') in 0.217973 seconds
+  Import took 0.221817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/KenneyUIPack/PNG/barBack_horizontalRight.png
+  artifactKey: Guid(968f6fb2ade2caa49ab11dfbbcccf708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBack_horizontalRight.png using Guid(968f6fb2ade2caa49ab11dfbbcccf708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b899d294ffd4bdb3e88a03fbb07a09') in 0.008631 seconds
+  Import took 0.011574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/KenneyUIPack/PNG/arrowBeige_right.png
+  artifactKey: Guid(5b99b2bb7557a7a4e8e9315876a8e1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/arrowBeige_right.png using Guid(5b99b2bb7557a7a4e8e9315876a8e1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e5c225b3de71496fb454634f68c7b8') in 0.012017 seconds
+  Import took 0.017164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000785 seconds.
+  path: Assets/KenneyUIPack/PNG/arrowSilver_left.png
+  artifactKey: Guid(071182b0a88d1f743bb854f5cf3f6f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/arrowSilver_left.png using Guid(071182b0a88d1f743bb854f5cf3f6f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46816e5527eac80a2d88dca34b7da411') in 0.010384 seconds
+  Import took 0.014710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/KenneyUIPack/PNG/arrowBrown_left.png
+  artifactKey: Guid(53e8a22a1e4633f429f8e2e5aaaed94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/arrowBrown_left.png using Guid(53e8a22a1e4633f429f8e2e5aaaed94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f74823b08861bc8fefe86192b909d1') in 0.008052 seconds
+  Import took 0.011541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/MuffinClicker/Sprites/Background.jpg
+  artifactKey: Guid(7625805a25b164c408dfa505a401a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MuffinClicker/Sprites/Background.jpg using Guid(7625805a25b164c408dfa505a401a9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea3d8b701e9fb93581cf58e217c5955d') in 0.043124 seconds
+  Import took 0.047370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/KenneyUIPack/PNG/arrowBrown_right.png
+  artifactKey: Guid(e11dda3b860694e4392139e7e478e40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/arrowBrown_right.png using Guid(e11dda3b860694e4392139e7e478e40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b74417ab0e0b741a8c430acd10d0ead9') in 0.008396 seconds
+  Import took 0.012751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/KenneyUIPack/PNG/arrowSilver_right.png
+  artifactKey: Guid(f11ab3ee56145dc4090ad82ab14472f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/arrowSilver_right.png using Guid(f11ab3ee56145dc4090ad82ab14472f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b67758f1f207ff6c5628467564c6d1') in 0.007926 seconds
+  Import took 0.011512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/KenneyUIPack/PNG/arrowBlue_left.png
+  artifactKey: Guid(2b43a06ca863d1a4c8027becea676c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/arrowBlue_left.png using Guid(2b43a06ca863d1a4c8027becea676c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56898f2a69e6fd2e9bf574ca7593b004') in 0.009322 seconds
+  Import took 0.014639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/KenneyUIPack/PNG/barBack_horizontalMid.png
+  artifactKey: Guid(df3184ba43998484d9fd476bbe444601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBack_horizontalMid.png using Guid(df3184ba43998484d9fd476bbe444601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1406889a792d7d92e854e8436fe8ae5c') in 0.009857 seconds
+  Import took 0.014506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/KenneyUIPack/PNG/arrowBlue_right.png
+  artifactKey: Guid(cbdce6ac42d86504bb10ee0c48ae3f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/arrowBlue_right.png using Guid(cbdce6ac42d86504bb10ee0c48ae3f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28dda841754a2a07c5e7543f889cf00') in 0.007368 seconds
+  Import took 0.010627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/KenneyUIPack/PNG/barBack_horizontalLeft.png
+  artifactKey: Guid(84c3ad16db5cd4043897112bb4ee8998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBack_horizontalLeft.png using Guid(84c3ad16db5cd4043897112bb4ee8998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24d62cddf8fd17f78ef002cbdb32dc7') in 0.007046 seconds
+  Import took 0.011228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.223265 seconds.
+  path: Assets/KenneyUIPack/PNG/barBack_verticalBottom.png
+  artifactKey: Guid(a3160ce0418f64c478161a5c29258b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBack_verticalBottom.png using Guid(a3160ce0418f64c478161a5c29258b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e28ca76d75ce68ddefbc15f5ed7ad33') in 0.007268 seconds
+  Import took 0.010647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/KenneyUIPack/PNG/barBack_verticalMid.png
+  artifactKey: Guid(0506bb1fd683aac4593bfb74c3d17253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBack_verticalMid.png using Guid(0506bb1fd683aac4593bfb74c3d17253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f64d1438d4cd00c76f967dbb37df13') in 0.010039 seconds
+  Import took 0.012710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/KenneyUIPack/PNG/barBack_verticalBottom.png
+  artifactKey: Guid(a3160ce0418f64c478161a5c29258b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBack_verticalBottom.png using Guid(a3160ce0418f64c478161a5c29258b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e28ca76d75ce68ddefbc15f5ed7ad33') in 0.008037 seconds
+  Import took 0.011868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/KenneyUIPack/PNG/barBack_verticalMid.png
+  artifactKey: Guid(0506bb1fd683aac4593bfb74c3d17253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBack_verticalMid.png using Guid(0506bb1fd683aac4593bfb74c3d17253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f64d1438d4cd00c76f967dbb37df13') in 0.008641 seconds
+  Import took 0.012394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/KenneyUIPack/PNG/barBack_verticalTop.png
+  artifactKey: Guid(a1e0e65ab29342e4ea534ef68ef6d776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBack_verticalTop.png using Guid(a1e0e65ab29342e4ea534ef68ef6d776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbabe92c3bb898e393b7256bbaf713f') in 0.010373 seconds
+  Import took 0.015787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.173467 seconds.
+  path: Assets/KenneyUIPack/PNG/barBlue_horizontalBlue.png
+  artifactKey: Guid(a5a3538ace9767346a39db1a5b1f3140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBlue_horizontalBlue.png using Guid(a5a3538ace9767346a39db1a5b1f3140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ff1d3f69efdb81a8af005154d5542f') in 0.006536 seconds
+  Import took 0.009245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/KenneyUIPack/PNG/barBlue_horizontalRight.png
+  artifactKey: Guid(eaf044b8dccdec74581502f1f610d3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBlue_horizontalRight.png using Guid(eaf044b8dccdec74581502f1f610d3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb01e2e22df83cc66cd88fd3fe8d697a') in 0.014962 seconds
+  Import took 0.018519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/KenneyUIPack/PNG/barBlue_horizontalLeft.png
+  artifactKey: Guid(f31a5bfe36226df4faa3c839b860cab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBlue_horizontalLeft.png using Guid(f31a5bfe36226df4faa3c839b860cab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fecef576a57463877ec38dafb0fbe0e') in 0.009807 seconds
+  Import took 0.014083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103293 seconds.
+  path: Assets/KenneyUIPack/PNG/barBlue_verticalBottom.png
+  artifactKey: Guid(f4f59fbac2a3289428715fff90609e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBlue_verticalBottom.png using Guid(f4f59fbac2a3289428715fff90609e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706c70646c94521dfb30692cf2232ee7') in 0.008603 seconds
+  Import took 0.012478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/KenneyUIPack/PNG/barBlue_verticalMid.png
+  artifactKey: Guid(d805d44ff46d0e443a100f1ce5b5866c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBlue_verticalMid.png using Guid(d805d44ff46d0e443a100f1ce5b5866c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aad32c8cff316ce3a62c31c5e4c7afe') in 0.006449 seconds
+  Import took 0.009343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/KenneyUIPack/PNG/barBlue_verticalTop.png
+  artifactKey: Guid(82d35703b9b15b74d989b6cf71e66d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barBlue_verticalTop.png using Guid(82d35703b9b15b74d989b6cf71e66d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b91ff500a04eaced0b534db96fafc5') in 0.014378 seconds
+  Import took 0.017094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039853 seconds.
+  path: Assets/KenneyUIPack/PNG/barGreen_horizontalLeft.png
+  artifactKey: Guid(ae113da81261b96428d554a1572c1c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barGreen_horizontalLeft.png using Guid(ae113da81261b96428d554a1572c1c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bfa1d1fca217b1c4ed0771a6f20684') in 0.008266 seconds
+  Import took 0.012342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/KenneyUIPack/PNG/barGreen_horizontalRight.png
+  artifactKey: Guid(3982a51f235c67c4a9d791da5d3542da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barGreen_horizontalRight.png using Guid(3982a51f235c67c4a9d791da5d3542da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335629b63d8ac5cf7b3b6c2a5dafdb4c') in 0.010924 seconds
+  Import took 0.015146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/KenneyUIPack/PNG/barGreen_horizontalMid.png
+  artifactKey: Guid(e1d1c049b92f9df429b91da25e9f965b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barGreen_horizontalMid.png using Guid(e1d1c049b92f9df429b91da25e9f965b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec5a06d7d8ce6afad23f783285dee4f') in 0.008149 seconds
+  Import took 0.013833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/KenneyUIPack/PNG/barGreen_verticalMid.png
+  artifactKey: Guid(70ac20b7c11fe5d4ba3852541d828c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barGreen_verticalMid.png using Guid(70ac20b7c11fe5d4ba3852541d828c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873d81c53738f02d2261c3082ea70063') in 0.009318 seconds
+  Import took 0.014501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/KenneyUIPack/PNG/barGreen_verticalBottom.png
+  artifactKey: Guid(a509e250ccce452458929384bf3f4071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barGreen_verticalBottom.png using Guid(a509e250ccce452458929384bf3f4071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa8521f4d6b30370836b04e0e727294') in 0.008275 seconds
+  Import took 0.013239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/KenneyUIPack/PNG/barGreen_verticalTop.png
+  artifactKey: Guid(fea48560c76dcf84ea0b193ec1048c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barGreen_verticalTop.png using Guid(fea48560c76dcf84ea0b193ec1048c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f76589b24243954101f51b06a97f28') in 0.010303 seconds
+  Import took 0.015730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165688 seconds.
+  path: Assets/KenneyUIPack/PNG/barRed_horizontalLeft.png
+  artifactKey: Guid(7f0b9a3faa906bc46a9245245d175dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barRed_horizontalLeft.png using Guid(7f0b9a3faa906bc46a9245245d175dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ffb0c5c562e081ad63b9c194d37403') in 0.007611 seconds
+  Import took 0.012400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/KenneyUIPack/PNG/barRed_horizontalRight.png
+  artifactKey: Guid(d13cf739d70843c4ca5878e8e8160eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barRed_horizontalRight.png using Guid(d13cf739d70843c4ca5878e8e8160eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57188615adb294c57efddf7aa7e812c') in 0.007610 seconds
+  Import took 0.010509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/KenneyUIPack/PNG/barRed_horizontalMid.png
+  artifactKey: Guid(3a1d4ce3089617c4cbd62950cb150ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barRed_horizontalMid.png using Guid(3a1d4ce3089617c4cbd62950cb150ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bd7eb16f2c41e135063001c904d8ea') in 0.013012 seconds
+  Import took 0.017581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/KenneyUIPack/PNG/barRed_verticalBottom.png
+  artifactKey: Guid(7c79fc96b395c2b4a98e8a776e55f8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barRed_verticalBottom.png using Guid(7c79fc96b395c2b4a98e8a776e55f8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a3563d285d980cf8cd09a583ea6142') in 0.006850 seconds
+  Import took 0.010025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/KenneyUIPack/PNG/barRed_verticalMid.png
+  artifactKey: Guid(33a4ef1606011c349b346583200042a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barRed_verticalMid.png using Guid(33a4ef1606011c349b346583200042a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e29148970a26c9cb77f942c3d9fe9f8') in 0.008563 seconds
+  Import took 0.012377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/KenneyUIPack/PNG/barRed_verticalTop.png
+  artifactKey: Guid(2c26ce1b02762704a92e822e8a0969c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barRed_verticalTop.png using Guid(2c26ce1b02762704a92e822e8a0969c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b85b2c520f08f7e5af18aee6d45e3ec') in 0.009910 seconds
+  Import took 0.013844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015332 seconds.
+  path: Assets/KenneyUIPack/PNG/barYellow_horizontalLeft.png
+  artifactKey: Guid(ede6de1871713a642a37484b52fb60cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barYellow_horizontalLeft.png using Guid(ede6de1871713a642a37484b52fb60cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '348a210f9662538666f9830af742a939') in 0.009249 seconds
+  Import took 0.014788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/KenneyUIPack/PNG/barYellow_horizontalMid.png
+  artifactKey: Guid(560eb80b93dfea44393a1bb7fa4ad1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barYellow_horizontalMid.png using Guid(560eb80b93dfea44393a1bb7fa4ad1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dceaa88a701df7921ad1bab887f7cb6') in 0.008853 seconds
+  Import took 0.013122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/KenneyUIPack/PNG/barYellow_horizontalRight.png
+  artifactKey: Guid(fe094bdd4c0904349adfbae315a27ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barYellow_horizontalRight.png using Guid(fe094bdd4c0904349adfbae315a27ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13fd9184eab5838d5039e963b464c625') in 0.008139 seconds
+  Import took 0.012696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.206040 seconds.
+  path: Assets/KenneyUIPack/PNG/barYellow_verticalBottom.png
+  artifactKey: Guid(9692bfb674dabe9489bfafc5cb274ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barYellow_verticalBottom.png using Guid(9692bfb674dabe9489bfafc5cb274ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6d6bd977ed6c8fde1d89ef9bf1a3fa') in 0.006206 seconds
+  Import took 0.008883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/KenneyUIPack/PNG/barYellow_verticalMid.png
+  artifactKey: Guid(69ee6851ebb3b0a49954a7948d6ec7d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barYellow_verticalMid.png using Guid(69ee6851ebb3b0a49954a7948d6ec7d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddeae6ef2edc552062ec0699fbf6d24c') in 0.005726 seconds
+  Import took 0.009393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/KenneyUIPack/PNG/barYellow_verticalTop.png
+  artifactKey: Guid(70aab4d0fab043942b93bcb022569c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/barYellow_verticalTop.png using Guid(70aab4d0fab043942b93bcb022569c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c312a98053b69b82e859f304c2738d22') in 0.009274 seconds
+  Import took 0.012763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053670 seconds.
+  path: Assets/Delicious Sweet Candies/CustomPng/BittenMuffin1.png
+  artifactKey: Guid(54eae61f6a1c3894e8a324b0ee19d9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/CustomPng/BittenMuffin1.png using Guid(54eae61f6a1c3894e8a324b0ee19d9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc23442aff3a3a6a0d44ddb40acdf7b') in 0.014652 seconds
+  Import took 0.018357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_beige.png
+  artifactKey: Guid(18aa861c6513d4344817121878e626e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_beige.png using Guid(18aa861c6513d4344817121878e626e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950936a64effac58991b7906e1f59349') in 0.011123 seconds
+  Import took 0.014576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000949 seconds.
+  path: Assets/Delicious Sweet Candies/CustomPng/BittenMuffin2.png
+  artifactKey: Guid(fcce559288019c344a3cc6b4ba96e8a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/CustomPng/BittenMuffin2.png using Guid(fcce559288019c344a3cc6b4ba96e8a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8515aadff80ea9adb7d13d44efc2562a') in 0.013242 seconds
+  Import took 0.018438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.188054 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_beige_pressed.png
+  artifactKey: Guid(ab885aaf7e612af4ca74aabed1f8924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_beige_pressed.png using Guid(ab885aaf7e612af4ca74aabed1f8924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9f1cb7d02c24583b133784ac408019') in 0.006955 seconds
+  Import took 0.010260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_blue_pressed.png
+  artifactKey: Guid(7ae88bfc834a8ca4c8074e10280cb0d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_blue_pressed.png using Guid(7ae88bfc834a8ca4c8074e10280cb0d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b9a5b8ea98831109f0977b8949e08e') in 0.008540 seconds
+  Import took 0.012006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_beige_pressed.png
+  artifactKey: Guid(ab885aaf7e612af4ca74aabed1f8924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_beige_pressed.png using Guid(ab885aaf7e612af4ca74aabed1f8924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9f1cb7d02c24583b133784ac408019') in 0.008912 seconds
+  Import took 0.013158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_brown_pressed.png
+  artifactKey: Guid(32047ab40d30ef645a8e659087f0fe69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_brown_pressed.png using Guid(32047ab40d30ef645a8e659087f0fe69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9809f6ac33f391a248c3a93a45798f10') in 0.009127 seconds
+  Import took 0.012753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_brown.png
+  artifactKey: Guid(9d6c4c032deaa944e8b2f84dab3565e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_brown.png using Guid(9d6c4c032deaa944e8b2f84dab3565e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01564d372096343f6b811c98f6a67bc9') in 0.006476 seconds
+  Import took 0.009870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_blue.png
+  artifactKey: Guid(35cd281713b09a546a317687f93c7a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_blue.png using Guid(35cd281713b09a546a317687f93c7a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26720bb9c5f639ff36ebed74cf6f8e96') in 0.012099 seconds
+  Import took 0.016686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_grey.png
+  artifactKey: Guid(a614b1efdd28c24479239182ed4a4a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_grey.png using Guid(a614b1efdd28c24479239182ed4a4a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76c1ec53f1e69cac777de40df2403b6') in 0.007303 seconds
+  Import took 0.010394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonLong_grey_pressed.png
+  artifactKey: Guid(dc042860756275d45899830616789a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonLong_grey_pressed.png using Guid(dc042860756275d45899830616789a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c192adb487a8b45b8b8aa5babd2b335') in 0.007781 seconds
+  Import took 0.012160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonRound_brown.png
+  artifactKey: Guid(23d8268205250594184d4d12552ce6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonRound_brown.png using Guid(23d8268205250594184d4d12552ce6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a410f87b143a5482414fe907465bfc') in 0.013321 seconds
+  Import took 0.018504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonRound_beige.png
+  artifactKey: Guid(c3aedaed21093a341a5186593b986cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonRound_beige.png using Guid(c3aedaed21093a341a5186593b986cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b70d6e659d93624663a22a90c086a97') in 0.009678 seconds
+  Import took 0.013818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonRound_blue.png
+  artifactKey: Guid(c63af5ebbb6861546aaf994cfc8be1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonRound_blue.png using Guid(c63af5ebbb6861546aaf994cfc8be1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9197a92065937eb3e955d978b08e85') in 0.008487 seconds
+  Import took 0.014554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonSquare_beige.png
+  artifactKey: Guid(603cd4fe17871b8409149b771abb1133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonSquare_beige.png using Guid(603cd4fe17871b8409149b771abb1133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23047bf8a0759aa1bf000b08e0a011a9') in 0.008694 seconds
+  Import took 0.013122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonRound_grey.png
+  artifactKey: Guid(d61ea6537a0a18740bf228158edebfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonRound_grey.png using Guid(d61ea6537a0a18740bf228158edebfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d87f03bc3aac3c4c9f423b338495f16') in 0.007476 seconds
+  Import took 0.011399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.248713 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonSquare_beige_pressed.png
+  artifactKey: Guid(34a9a40518971b846935f18e3d861511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonSquare_beige_pressed.png using Guid(34a9a40518971b846935f18e3d861511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d130453eeec83a6a4bf04b24a2665d') in 0.010500 seconds
+  Import took 0.014485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonSquare_blue_pressed.png
+  artifactKey: Guid(52eabf9fd4ce5844292e68ac4a6a803e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonSquare_blue_pressed.png using Guid(52eabf9fd4ce5844292e68ac4a6a803e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3978c1ccba3079634171712e5bc41d6e') in 0.006521 seconds
+  Import took 0.009359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonSquare_blue.png
+  artifactKey: Guid(04226a46da594cc498e465883fd88948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonSquare_blue.png using Guid(04226a46da594cc498e465883fd88948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52aba54d3351c9b64a723786cec56aea') in 0.007131 seconds
+  Import took 0.011292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053953 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonSquare_brown.png
+  artifactKey: Guid(774df19d5ac44ed4aa284048c4eb406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonSquare_brown.png using Guid(774df19d5ac44ed4aa284048c4eb406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3213ded4bca2f43ad160374eca91b7eb') in 0.008693 seconds
+  Import took 0.013122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonSquare_brown_pressed.png
+  artifactKey: Guid(683932ee77762de4ba069de01779f79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonSquare_brown_pressed.png using Guid(683932ee77762de4ba069de01779f79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9ae3bce0b3e739385471708674052b') in 0.008846 seconds
+  Import took 0.012311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonSquare_grey.png
+  artifactKey: Guid(82ad3e73c82a1ae448d94b295fa94717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonSquare_grey.png using Guid(82ad3e73c82a1ae448d94b295fa94717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efaf2cb5854a26e94476bfbbbf8c2a11') in 0.010746 seconds
+  Import took 0.013673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012830 seconds.
+  path: Assets/KenneyUIPack/PNG/buttonSquare_grey_pressed.png
+  artifactKey: Guid(119dc4dc8ec27dd438858393ea61ed99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/buttonSquare_grey_pressed.png using Guid(119dc4dc8ec27dd438858393ea61ed99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f9fb0503d345f80e92f0bd3bdda4fa') in 0.007733 seconds
+  Import took 0.011902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/cake.png
+  artifactKey: Guid(b35d736231b2e43b093a0ee7d5581ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/cake.png using Guid(b35d736231b2e43b093a0ee7d5581ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31c6201d4ba0ebb9455a941b1b816e6') in 0.012695 seconds
+  Import took 0.017058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/cake_stroke.png
+  artifactKey: Guid(799f5875c25094d8dba44a9851499e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/cake_stroke.png using Guid(799f5875c25094d8dba44a9851499e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ea24dd4c9793b964f922fb2919963a') in 0.011201 seconds
+  Import took 0.015763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.158413 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/candy-apple.png
+  artifactKey: Guid(190566084fa2d4397a67618bafee3137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/candy-apple.png using Guid(190566084fa2d4397a67618bafee3137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94b22d3aa791d5240dc7618b29579de') in 0.009393 seconds
+  Import took 0.013051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/chewing-gum.png
+  artifactKey: Guid(36d61e19c4c0944c8a89555bb07814e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/chewing-gum.png using Guid(36d61e19c4c0944c8a89555bb07814e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2aa031ae7d3211d1f585d5da71f8c49') in 0.010427 seconds
+  Import took 0.013706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/candy-apple_stroke.png
+  artifactKey: Guid(0790d5714b5544c6fa8276d009a959b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/candy-apple_stroke.png using Guid(0790d5714b5544c6fa8276d009a959b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78bdf7ed9345cc854f197646b9087334') in 0.011461 seconds
+  Import took 0.014920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.261925 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/chewing-gum_stroke.png
+  artifactKey: Guid(80a6b1c7f3a6d4f7b87de76c061f3be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/chewing-gum_stroke.png using Guid(80a6b1c7f3a6d4f7b87de76c061f3be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8286647a918035ed97903418b288d5') in 0.009310 seconds
+  Import took 0.012516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/chocolate-bar.png
+  artifactKey: Guid(de53037ee55cf4a26b9e4a0d0e0b3492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/chocolate-bar.png using Guid(de53037ee55cf4a26b9e4a0d0e0b3492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbeb07ad9faa84310d012fc635bd5a57') in 0.013155 seconds
+  Import took 0.016768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/chocolate-bar_stroke.png
+  artifactKey: Guid(afcde55a8f1e645a09c299a8ef8e58b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/chocolate-bar_stroke.png using Guid(afcde55a8f1e645a09c299a8ef8e58b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12bcf876db830cf0d9d8f7ffc0adbf2c') in 0.010662 seconds
+  Import took 0.014191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045715 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/cookie.png
+  artifactKey: Guid(fb53e9b86fb2c4030810ef670f7cd47e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/cookie.png using Guid(fb53e9b86fb2c4030810ef670f7cd47e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e31b01a139c9ba12837f84be830d92') in 0.014629 seconds
+  Import took 0.019296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/cotton-candy.png
+  artifactKey: Guid(0949e9b161aef449a94e4b0eb0d30548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/cotton-candy.png using Guid(0949e9b161aef449a94e4b0eb0d30548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7dcd3b3386e1a9082fed1dae228127') in 0.011852 seconds
+  Import took 0.016012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/cookie_stroke.png
+  artifactKey: Guid(e488417a2c95b400d829a3c15a530a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/cookie_stroke.png using Guid(e488417a2c95b400d829a3c15a530a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515a2db4e32a08433a02ecbcefe3b099') in 0.011473 seconds
+  Import took 0.014989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.324583 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/cotton-candy_stroke.png
+  artifactKey: Guid(08f0363d8c4bc4d7fac08b855cae2516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/cotton-candy_stroke.png using Guid(08f0363d8c4bc4d7fac08b855cae2516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5893d9505930ffdf3102011fc5d82cd0') in 0.010789 seconds
+  Import took 0.015417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/cream-cookie.png
+  artifactKey: Guid(9b4881748c4954051b35cb1384027a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/cream-cookie.png using Guid(9b4881748c4954051b35cb1384027a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122d20bc7274d52e0bc40e8ef02e7f30') in 0.012900 seconds
+  Import took 0.017079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/cream-cookie_stroke.png
+  artifactKey: Guid(f07cbdc419d40421ab3732807de5571b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/cream-cookie_stroke.png using Guid(f07cbdc419d40421ab3732807de5571b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '218755e829f6182959a34b81dea259f5') in 0.016265 seconds
+  Import took 0.019629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.737100 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/cupcake.png
+  artifactKey: Guid(0c02bcc430ca34a4f975bfa4e8bba5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/cupcake.png using Guid(0c02bcc430ca34a4f975bfa4e8bba5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46cfee2b076496c35e74e5e654b386c') in 0.014042 seconds
+  Import took 0.018174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorGauntlet_blue.png
+  artifactKey: Guid(3025290cffb4f9342962faf6871c80b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorGauntlet_blue.png using Guid(3025290cffb4f9342962faf6871c80b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a02c166c4c21e671e2c25b79f1a90a') in 0.011049 seconds
+  Import took 0.014917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/cupcake_stroke.png
+  artifactKey: Guid(9219556a9a61743deb951bcede94423d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/cupcake_stroke.png using Guid(9219556a9a61743deb951bcede94423d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d213523c540f341ab5ec5705d0c58f') in 0.011123 seconds
+  Import took 0.014435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060052 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorGauntlet_bronze.png
+  artifactKey: Guid(4a748deee1ebf8640a408eb9e73c9e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorGauntlet_bronze.png using Guid(4a748deee1ebf8640a408eb9e73c9e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8eb074a65515cd78097f05d8b36bf99') in 0.013563 seconds
+  Import took 0.020365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorGauntlet_grey.png
+  artifactKey: Guid(c0d6bc8d6faf96045b48b4f5af98358d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorGauntlet_grey.png using Guid(c0d6bc8d6faf96045b48b4f5af98358d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2127ea20992ea0efa92930654ff103ee') in 0.012274 seconds
+  Import took 0.021860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorHand_beige.png
+  artifactKey: Guid(2e29c2a209cbf764ca989dee90c389c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorHand_beige.png using Guid(2e29c2a209cbf764ca989dee90c389c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3e44bb9c68976b1cd7e8fba7f502fd') in 0.010940 seconds
+  Import took 0.014593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117665 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorHand_blue.png
+  artifactKey: Guid(1e5d32d0f5d751442b984c91b35108d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorHand_blue.png using Guid(1e5d32d0f5d751442b984c91b35108d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb8003c3c2e46d52bf295c506362fd9') in 0.008372 seconds
+  Import took 0.013034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorHand_grey.png
+  artifactKey: Guid(3e639c546d7640e48ac5367d57a9c028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorHand_grey.png using Guid(3e639c546d7640e48ac5367d57a9c028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595fc9d64f443df996bfefa2ce788a72') in 0.007548 seconds
+  Import took 0.011925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorSword_bronze.png
+  artifactKey: Guid(30dbd11088c205c45a602bed2faa5caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorSword_bronze.png using Guid(30dbd11088c205c45a602bed2faa5caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e1d7aad70807a6cbfc8b6a091930d5') in 0.011620 seconds
+  Import took 0.017525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000716 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorHand_grey.png
+  artifactKey: Guid(3e639c546d7640e48ac5367d57a9c028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorHand_grey.png using Guid(3e639c546d7640e48ac5367d57a9c028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595fc9d64f443df996bfefa2ce788a72') in 0.011145 seconds
+  Import took 0.017001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorHand_blue.png
+  artifactKey: Guid(1e5d32d0f5d751442b984c91b35108d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorHand_blue.png using Guid(1e5d32d0f5d751442b984c91b35108d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb8003c3c2e46d52bf295c506362fd9') in 0.012451 seconds
+  Import took 0.018034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021199 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorSword_gold.png
+  artifactKey: Guid(9725a41ec7ba40e4cb4344b699fe9e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorSword_gold.png using Guid(9725a41ec7ba40e4cb4344b699fe9e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08bb343c07af7a9455201588c9c82ece') in 0.008373 seconds
+  Import took 0.012377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/donnut.png
+  artifactKey: Guid(92efa643b105f40bf9d382fb606f7e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/donnut.png using Guid(92efa643b105f40bf9d382fb606f7e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '654e3a5d2f830a804cc594965e76c081') in 0.012394 seconds
+  Import took 0.018353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/KenneyUIPack/PNG/cursorSword_silver.png
+  artifactKey: Guid(38aef76161d190545be11a3c42421e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/cursorSword_silver.png using Guid(38aef76161d190545be11a3c42421e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72890aa70ad65e632e7566520a458b1') in 0.013830 seconds
+  Import took 0.019577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.360714 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/donnut_stroke.png
+  artifactKey: Guid(727ee252aa7c945aeaa3ea1bb5eaad8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/donnut_stroke.png using Guid(727ee252aa7c945aeaa3ea1bb5eaad8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4573273c65bfbfc79639f5989d27434') in 0.009036 seconds
+  Import took 0.011832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/dutch-pie.png
+  artifactKey: Guid(a1203716daf544cd2a6fed4cc59d2a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/dutch-pie.png using Guid(a1203716daf544cd2a6fed4cc59d2a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9841cf753c3415fa6cc333344315ce14') in 0.012614 seconds
+  Import took 0.016929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/dutch-pie_stroke.png
+  artifactKey: Guid(af1381df69b0c4f2ca1a0969df139bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/dutch-pie_stroke.png using Guid(af1381df69b0c4f2ca1a0969df139bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba216454c9875b7846ec4272676334b5') in 0.013974 seconds
+  Import took 0.018684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.203365 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/eclair.png
+  artifactKey: Guid(3c8ada86f5e74445c93433fbc78b42c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/eclair.png using Guid(3c8ada86f5e74445c93433fbc78b42c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4684b556648a633555d151fb359ea6b3') in 0.010427 seconds
+  Import took 0.014570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/gingerbread-man.png
+  artifactKey: Guid(9ae9536bdc1d84f74a3c1f66d6b12931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/gingerbread-man.png using Guid(9ae9536bdc1d84f74a3c1f66d6b12931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd03b507e7d3bc03bbbd7c73b20cf54') in 0.010662 seconds
+  Import took 0.014398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/eclair_stroke.png
+  artifactKey: Guid(c9fc23ba4048c4c1eb49fe0444d22057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/eclair_stroke.png using Guid(c9fc23ba4048c4c1eb49fe0444d22057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7dd1b35cb912bce2c386598f8d2dacf') in 0.015414 seconds
+  Import took 0.019238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046422 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/gingerbread-man_stroke.png
+  artifactKey: Guid(86fe3cabe72b14bf1b9092f7821222ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/gingerbread-man_stroke.png using Guid(86fe3cabe72b14bf1b9092f7821222ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7cc74e16928243beeff1c158acd80f') in 0.011395 seconds
+  Import took 0.014385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/gum-drops.png
+  artifactKey: Guid(ba2d3b706fdea4f03aa1a27703af58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/gum-drops.png using Guid(ba2d3b706fdea4f03aa1a27703af58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662935679668b2a5b91afaf3ebe52a8c') in 0.013058 seconds
+  Import took 0.016253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/gum-drops_stroke.png
+  artifactKey: Guid(c82c3e28f462747dba18552f9c31b8eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/gum-drops_stroke.png using Guid(c82c3e28f462747dba18552f9c31b8eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d6ee8813b8073d9a1c007ff5073044') in 0.012752 seconds
+  Import took 0.016040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.796284 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/gummy-bear.png
+  artifactKey: Guid(fc4e813d05a3743ecaa65cda99882a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/gummy-bear.png using Guid(fc4e813d05a3743ecaa65cda99882a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d279784c9337707c9d342ee025b0b87') in 0.010060 seconds
+  Import took 0.012762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/heart-lollipop.png
+  artifactKey: Guid(a78235fdfa12444da99f2cb3a2fff577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/heart-lollipop.png using Guid(a78235fdfa12444da99f2cb3a2fff577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9076f3b10bfad21453424a89dc1906') in 0.012149 seconds
+  Import took 0.014880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/gummy-bear_stroke.png
+  artifactKey: Guid(8f9335cddb67b400cbb29a1d8dc11a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/gummy-bear_stroke.png using Guid(8f9335cddb67b400cbb29a1d8dc11a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1edca42dd1d1f1bb55deb3585dcf5e74') in 0.011268 seconds
+  Import took 0.014183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.423413 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/heart-lollipop_stroke.png
+  artifactKey: Guid(28c82859ed06f433fa96b20378c316d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/heart-lollipop_stroke.png using Guid(28c82859ed06f433fa96b20378c316d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ba615647e0d40846b3a837a659a73d') in 0.011685 seconds
+  Import took 0.014769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/ice-cream.png
+  artifactKey: Guid(3771ccefce5ae4cf38725fe94b8bc953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/ice-cream.png using Guid(3771ccefce5ae4cf38725fe94b8bc953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dda4a0a66400bdbbd6256e3b9258d45e') in 0.008680 seconds
+  Import took 0.011466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/ice-cream_stroke.png
+  artifactKey: Guid(5789490ccd08f426e92fcdfefa0967e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/ice-cream_stroke.png using Guid(5789490ccd08f426e92fcdfefa0967e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd18a9547e7d63fd0b0bff8aa945f855d') in 0.013041 seconds
+  Import took 0.016677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.343284 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCheck_beige.png
+  artifactKey: Guid(3d662205e3e71bf4db48b3a20490f243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCheck_beige.png using Guid(3d662205e3e71bf4db48b3a20490f243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03224ee5e4c4a749888d82454f7e829') in 0.007354 seconds
+  Import took 0.010783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCheck_blue.png
+  artifactKey: Guid(abc034f8b6ea14142b98ea5c0c30b5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCheck_blue.png using Guid(abc034f8b6ea14142b98ea5c0c30b5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8fcb6eb7a0b8e88334aefb9385091f2') in 0.006816 seconds
+  Import took 0.010207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCheck_bronze.png
+  artifactKey: Guid(67a6b67b2b1ee404a8dd25f8a6e7d253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCheck_bronze.png using Guid(67a6b67b2b1ee404a8dd25f8a6e7d253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c38fd67315aeb6f0a4a950a4a59b54') in 0.009289 seconds
+  Import took 0.013268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.091775 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCheck_grey.png
+  artifactKey: Guid(34cef97fd81ec8c4987d815b47879e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCheck_grey.png using Guid(34cef97fd81ec8c4987d815b47879e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5820e78715ed35307494b65b87932c31') in 0.008946 seconds
+  Import took 0.011931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCircle_blue.png
+  artifactKey: Guid(2f45c3acb2d62fe43b154bfd53c9a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCircle_blue.png using Guid(2f45c3acb2d62fe43b154bfd53c9a45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9a86f053f479d8aeac6a9adccd7252') in 0.009244 seconds
+  Import took 0.013753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCircle_beige.png
+  artifactKey: Guid(a401653e7c0b1b545beacf5f85ab82cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCircle_beige.png using Guid(a401653e7c0b1b545beacf5f85ab82cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865a362f69af1cb8745976dccddc6f49') in 0.006985 seconds
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.604746 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCircle_brown.png
+  artifactKey: Guid(89e0ea6efd584a040b02b81714329cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCircle_brown.png using Guid(89e0ea6efd584a040b02b81714329cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fcfbc20380653190e18c81ceeea644') in 0.007505 seconds
+  Import took 0.010511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCircle_grey.png
+  artifactKey: Guid(0947d2eb1f3f2b84aac0f5072fbbc602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCircle_grey.png using Guid(0947d2eb1f3f2b84aac0f5072fbbc602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f517ef88ff548162ee07dd178210dd8c') in 0.008009 seconds
+  Import took 0.012076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCross_beige.png
+  artifactKey: Guid(fb77a33f8512ca64d87b167adcfbfa12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCross_beige.png using Guid(fb77a33f8512ca64d87b167adcfbfa12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccaefabf10b82f35d52eea5acac3fec0') in 0.008424 seconds
+  Import took 0.011998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.310931 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCross_blue.png
+  artifactKey: Guid(5d4c098a233363e40b101f2dd722b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCross_blue.png using Guid(5d4c098a233363e40b101f2dd722b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc07328ccf56e99f2726a3b5b51ed473') in 0.007784 seconds
+  Import took 0.010999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCross_brown.png
+  artifactKey: Guid(3af3b2940fb39294b8041e38089f1725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCross_brown.png using Guid(3af3b2940fb39294b8041e38089f1725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89a2eded5bf0c19c1c79bc4f05175d6') in 0.007480 seconds
+  Import took 0.010688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/KenneyUIPack/PNG/iconCross_grey.png
+  artifactKey: Guid(8d9b88dc98c93a84aa1d08e88fa5071f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/iconCross_grey.png using Guid(8d9b88dc98c93a84aa1d08e88fa5071f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee9cefb0b1ba070f9990ed828227c5d5') in 0.007793 seconds
+  Import took 0.011363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085596 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/jelly.png
+  artifactKey: Guid(93474628753074b5a8a59b4749fed13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/jelly.png using Guid(93474628753074b5a8a59b4749fed13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d4d02b286dfa8374d85ede7526da94') in 0.010390 seconds
+  Import took 0.015040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/lollipop.png
+  artifactKey: Guid(3d1663cacc0ae475282d43ac6852872b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/lollipop.png using Guid(3d1663cacc0ae475282d43ac6852872b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07cd52aeadb53a1394a0a42588f88e95') in 0.012123 seconds
+  Import took 0.015212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/jelly_stroke.png
+  artifactKey: Guid(a509f6687e95c402aaff18856411f5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/jelly_stroke.png using Guid(a509f6687e95c402aaff18856411f5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5be9a1dd650203ae618ee6c64752ca') in 0.009587 seconds
+  Import took 0.012947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050973 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/lollipop_stroke.png
+  artifactKey: Guid(28524db5fe42c4923b3ad8f3f4fb742c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/lollipop_stroke.png using Guid(28524db5fe42c4923b3ad8f3f4fb742c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ff46de29a7b1eea8fdb8a0bdd50d74') in 0.009980 seconds
+  Import took 0.014743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/macaron.png
+  artifactKey: Guid(b4f4c224f7f1d449a99924aa90b73271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/macaron.png using Guid(b4f4c224f7f1d449a99924aa90b73271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa73c0eeb15a7c2d99813f66bc60b552') in 0.013150 seconds
+  Import took 0.016644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/macaron_stroke.png
+  artifactKey: Guid(0880325b431534468997449729cade2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/macaron_stroke.png using Guid(0880325b431534468997449729cade2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c1b0d4db2ca71233dbc7d1de5f118d') in 0.011949 seconds
+  Import took 0.015084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.297840 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/milkshake.png
+  artifactKey: Guid(c58e868c931f848e4ad40aac48278f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/milkshake.png using Guid(c58e868c931f848e4ad40aac48278f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf79e61be708cbf5833481389384c5d') in 0.019675 seconds
+  Import took 0.024400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/milkshake_stroke.png
+  artifactKey: Guid(1290ebdb32ab2475aa759c206aadbb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/milkshake_stroke.png using Guid(1290ebdb32ab2475aa759c206aadbb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7d60543c65f4bba0ebb19026fd5cd2') in 0.012967 seconds
+  Import took 0.016227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Delicious Sweet Candies/png 256x256/muffin.png
+  artifactKey: Guid(01ac43e86ec6d4fee97f8ab281228351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png 256x256/muffin.png using Guid(01ac43e86ec6d4fee97f8ab281228351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a145233e3d8932f82d316d5abab68f3') in 0.011224 seconds
+  Import took 0.014992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041124 seconds.
+  path: Assets/Delicious Sweet Candies/png stroke 256x256/muffin_stroke.png
+  artifactKey: Guid(4d5f0dcce5afe4ca081bfbea9286791d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Delicious Sweet Candies/png stroke 256x256/muffin_stroke.png using Guid(4d5f0dcce5afe4ca081bfbea9286791d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2e8aabf42494015a79b0706062885f') in 0.013099 seconds
+  Import took 0.016436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000753 seconds.
+  path: Assets/KenneyUIPack/PNG/panel_beigeLight.png
+  artifactKey: Guid(9b81efb43c1bc974495f97709af04d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/panel_beigeLight.png using Guid(9b81efb43c1bc974495f97709af04d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1ece0f7765c2494e135e0c7bebd3f0') in 0.010111 seconds
+  Import took 0.014072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/KenneyUIPack/PNG/panel_beige.png
+  artifactKey: Guid(960589ebf6f03824f8f157043ab40882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/panel_beige.png using Guid(960589ebf6f03824f8f157043ab40882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4c51f85ef71184afa495aef7163e53') in 0.010884 seconds
+  Import took 0.016158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.653402 seconds.
+  path: Assets/KenneyUIPack/PNG/panel_blue.png
+  artifactKey: Guid(28b3b78653004614d96d0cfab4ef2f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/panel_blue.png using Guid(28b3b78653004614d96d0cfab4ef2f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aea93aba6c369d0d90b314d9e8ba179') in 0.006737 seconds
+  Import took 0.009513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/KenneyUIPack/PNG/panel_brown.png
+  artifactKey: Guid(e6e25414908cc80409f676a7de310c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/panel_brown.png using Guid(e6e25414908cc80409f676a7de310c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782288842bc07edac23bfb13bf7b542b') in 0.007785 seconds
+  Import took 0.011175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/KenneyUIPack/PNG/panelInset_beige.png
+  artifactKey: Guid(38ecfc5ce078dcb449436b483f1d1605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/panelInset_beige.png using Guid(38ecfc5ce078dcb449436b483f1d1605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1db033f172a23595bece1a26bca315') in 0.009240 seconds
+  Import took 0.012225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042540 seconds.
+  path: Assets/KenneyUIPack/PNG/panelInset_beigeLight.png
+  artifactKey: Guid(eb3b17005c6f0724eadafcd48e1cd556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/panelInset_beigeLight.png using Guid(eb3b17005c6f0724eadafcd48e1cd556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2cc9cddcf13c623c3a14eec52bfc375') in 0.009849 seconds
+  Import took 0.014315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/KenneyUIPack/PNG/panelInset_brown.png
+  artifactKey: Guid(7fbd25fac12fe3e4db5ccb5d86a333f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/panelInset_brown.png using Guid(7fbd25fac12fe3e4db5ccb5d86a333f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e98434f84fc1269220a1c05016e078e0') in 0.009802 seconds
+  Import took 0.015599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/KenneyUIPack/PNG/panelInset_blue.png
+  artifactKey: Guid(453ae2d06e334a44c989865155654cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KenneyUIPack/PNG/panelInset_blue.png using Guid(453ae2d06e334a44c989865155654cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1011b76e276fc529475650014b88199') in 0.009594 seconds
+  Import took 0.013940 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002967 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.037 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 2.174400 ms (FindLiveObjects: 0.227900 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.747200 ms  DeleteObjects: 0.113900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003540 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 1.879000 ms (FindLiveObjects: 0.178000 ms CreateObjectMapping: 0.060400 ms MarkObjects: 1.546800 ms  DeleteObjects: 0.093000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002139 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 2.743200 ms (FindLiveObjects: 0.362500 ms CreateObjectMapping: 0.218300 ms MarkObjects: 2.045400 ms  DeleteObjects: 0.115400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 237.376039 seconds.
+  path: Assets/MuffinClicker/LittleMuffin.prefab
+  artifactKey: Guid(7e7b97a375f518a4fa805a10f904ab74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MuffinClicker/LittleMuffin.prefab using Guid(7e7b97a375f518a4fa805a10f904ab74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f38dbca43dda0775d019a0a6fc37767') in 0.037460 seconds
+  Import took 0.041370 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005035 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.962 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1824 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 1.986400 ms (FindLiveObjects: 0.182200 ms CreateObjectMapping: 0.055400 ms MarkObjects: 1.652100 ms  DeleteObjects: 0.095700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
